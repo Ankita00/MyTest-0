@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Ankita00/MyTest-0.png?label=ready&title=Ready)](https://waffle.io/Ankita00/MyTest-0)
 # MyTest-0
 Trial and Error Space
 
